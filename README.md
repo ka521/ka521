@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Engineer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Coder FE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a Coder FE,BE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
 ## 🔥 Streak Stats
@@ -17,14 +17,8 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"?logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
+
+
   &emsp;
    <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
@@ -59,21 +53,19 @@
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-green?style=flat&logo=redux&logoColor=white"/>
   </a>      
    &emsp;
-     <a href="https://vuejs.org/" target="_blank"> 
-    <img alt="Vue" src="https://img.shields.io/badge/-Vuejs-brightgreen?style=flat&logo=vue&logoColor=white"/>
-												      </a>                                                                                                            
+                                                                                                               
 </p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-<!--  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+ <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp; -->
+  &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white">     </a>
-     &emsp;
-    <a href="https://www.mongodb.com/"><img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-green?logo=Monggo&logoColor=white"></a>  
+ 
+  
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
